@@ -6,4 +6,4 @@ This is for a submission for CS440 to the NLBSE 2025 call to improve comment cla
 	2.	Install the required dependencies from requirements.txt.
 	3.	Run the provided train.py script, specifying the lang parameter (java, python, or pharo) to train and evaluate the corresponding model.
 	4.	Use the inference.py script to classify new code comments.
-	5.	For more information on the training of the models reer to Multi-LabelClassificationofCodeCommentsUsing Transformers.pdf
+	5.	For more information on the training of the models reer to Multi_Label_Classification_of_Code_Comments_Using_Transformer_Based_Models.pdf
